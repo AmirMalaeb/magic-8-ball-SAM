@@ -68,3 +68,7 @@ Once everything is set up, open the index.html file in your browser or access it
 	•	CORS Issues: If you encounter CORS issues when accessing the API, ensure that CORS is properly configured in the API Gateway as outlined in the template.yaml file.
 	•	API Not Responding: Ensure that the API Gateway URL in the index.html file is correct and that the Lambda function is successfully deployed.
 
+**Contact**
+
+For any issues or suggestions, please contact me at amir.malaeb@gmail.com.
+
