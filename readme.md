@@ -112,9 +112,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For issues, suggestions, or queries, please contact Amir Malaeb at amir.malaeb@gmail.com.
-
-## Acknowledgments
-
-- Inspired by the classic Magic 8 Ball toy
-- Built with AWS Serverless Application Model (SAM)
-- Frontend design inspired by modern web interfaces
